@@ -1,0 +1,6274 @@
+[
+  {
+    "Timestamp": "6/20/2020 20:58:07",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU52591653-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:08",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56032711-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:09",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56456157-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:10",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU50341147-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:11",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU52588475-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:12",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53869994-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Chaos"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:13",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU31296586-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:13",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU52516946-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:14",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU33762784-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:15",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57153993-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:16",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU58470541-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:17",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU59261529-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:18",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU50806606-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:19",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU10802780-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:20",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU52099825-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:20",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU60345706-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:21",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53558215-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:22",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU61131932-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:23",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57281121-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:24",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU32427254-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:25",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU32700093-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:26",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53323782-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:27",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56614559-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:28",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU51203127-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:29",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU54379827-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:29",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30498296-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:30",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU31627172-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:31",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU10123441-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:32",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU10391011-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:33",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU52284175-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:34",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30676610-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:35",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU34674168-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:36",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU54773814-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:37",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53038980-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "The Next Guy"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:38",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30916879-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "The Next Guy"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:39",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU61465860-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "The Next Guy"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:39",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU32505813-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:40",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU54114655-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:41",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU51298226-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Jefflongo"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:42",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU31267879-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:43",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU60282288-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:44",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU38581469-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Supreme Device"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:45",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53079935-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Supreme Device"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:45",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU10306642-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "MasterNate"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:46",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57613505-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "BocuD"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:47",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU54685535-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Nobble"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:48",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU34686312-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:49",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU52149340-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:50",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU34194023-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Yellowberry"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:51",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU34207985-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Ekterm"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:52",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU10082951-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Edge"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:53",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU34586157-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheeser100"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:53",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU10569542-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheeser100"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:54",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU51080373-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:55",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU59808835-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:56",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU10178466-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:57",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU55093551-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:58",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56086294-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:58:59",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56414833-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:00",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30313237-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:01",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU52103946-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:02",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57030703-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:03",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56475848-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:03",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53190754-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:04",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU32159564-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:05",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU58999040-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:06",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57504139-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:07",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU10526545-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:08",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU31854500-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:09",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU34635467-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:10",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56649553-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:10",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU32271675-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:11",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53576900-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:12",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU54046972-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:13",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53814403-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:14",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30837616-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:15",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU51014427-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:16",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU31726786-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:17",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56469917-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:18",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU55051729-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:19",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53468574-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:20",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU59700055-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:21",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU31607522-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:22",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU33862339-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:23",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU31302406-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:23",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU10730490-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:24",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU55641188-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:25",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU50753475-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:26",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU33407832-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:27",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU50863986-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:28",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU55065097-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:29",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU55437385-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:30",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU50361950-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:30",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30025916-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:31",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU10551284-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:32",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU58879277-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:33",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU33483807-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:34",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU51999532-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:35",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU34628571-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:36",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU54354228-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:37",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU31573117-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:38",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30134650-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:39",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU31063251-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:39",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU33558072-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:40",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56857624-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:41",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU61369747-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:42",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53766141-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:43",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30146568-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:44",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU54032738-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:45",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30860756-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:46",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56472376-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:47",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU10239984-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:47",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU55838079-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:48",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU55503275-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:49",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU52893883-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:50",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57870435-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:51",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU52314485-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:52",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU32698816-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:53",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU51655986-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:54",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56306614-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:55",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU31045898-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:55",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU35077679-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:56",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU60378235-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:57",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU51125069-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:58",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU59331541-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 20:59:59",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU33600599-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:00",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57149831-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:01",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU54199384-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:02",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU50653179-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:03",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU58627780-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:03",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53309330-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:04",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57778182-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:05",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30049381-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:06",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30847422-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "MikaMaslak"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:07",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU55938539-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Ekterm"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:08",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU51088626-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Coolname"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:09",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU31521433-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Coolname"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:09",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU32034229-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:10",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU32192171-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:11",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU10754262-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:12",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56840520-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:13",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU54875286-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:14",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU50716656-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:15",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30067138-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:16",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU55689033-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:16",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU50652442-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:17",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU31123830-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:18",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57527793-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:19",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU32097764-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "TheMandalorian"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:20",
+    "Revision": "RVL-CPU-10",
+    "Serial Number": "LU50536646-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:21",
+    "Revision": "RVL-CPU-10",
+    "Serial Number": "LU50502413-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:22",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU64333771-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:23",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU66529147-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:24",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36239519-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:25",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU37260714-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:25",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU59535602-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:26",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU37132720-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:27",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU59688216-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:28",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU37518867-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Gman"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:29",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36776288-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:30",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU64395359-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:31",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU60224064-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:32",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63931572-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:33",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU64294082-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:34",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU35679964-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:34",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU59940203-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:35",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU62253110-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:36",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU37041673-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:37",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU58358802-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:38",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63448918-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "GIngerOfOz"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:39",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU35206329-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "CommanderBrace"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:40",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU60389358-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:41",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU62982964-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:42",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU59965117-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "MasterNate"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:43",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU35223293-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "FroggestSpirit"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:43",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63697745-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "MasterNate"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:44",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63111868-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:45",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU37076187-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:46",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU34844300-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:47",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36978495-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:48",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU54624447-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:49",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU61920832-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:50",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63224447-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:51",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63081693-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:52",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36181835-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:53",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU64456085-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:54",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU60037731-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:55",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU61623863-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:56",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU64385801-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:57",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU60375086-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:58",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36677257-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:58",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36508858-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:00:59",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU62062761-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:00",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU35321575-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:01",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36104510-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:02",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU64053961-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:03",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU65040880-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:04",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU59218687-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:05",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU58566481-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:06",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU62935089-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:06",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU62156494-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:07",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63929763-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:08",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU60718520-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:09",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU35163329-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:10",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU60220695-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:11",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU62995959-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:12",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36886111-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:13",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU62469023-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:14",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU62621042-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:15",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU35681974-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:16",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36502900-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:17",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU35911870-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:18",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63484442-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:18",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU62476346-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:19",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU66194266-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:20",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63180573-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:21",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63952179-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:22",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU64049526-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:23",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36215528-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:24",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU59599380-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:25",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36103165-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:26",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU37872318-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:26",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU60229191-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:27",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36681651-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:28",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU61778893-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:29",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU61612227-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:30",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU35360669-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:31",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63341060-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:32",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU60504560-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:33",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU64527887-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:34",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63206931-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:35",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU37642959-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:35",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU61730714-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:37",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36150568-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:37",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU66018272-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "t1m1d"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:38",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU12490692-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Wron"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:40",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU61862333-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:40",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU35654076-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:41",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU60871121-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:42",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU64161436-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Rodrigo Flores"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:43",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38145421-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:44",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38781826-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:45",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU-11264520-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:46",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38520503-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:47",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU11183577-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Terrat"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:48",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38667453-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:49",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38434479-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:49",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU65913564-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:50",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38871640-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:51",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU39076190-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:52",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU64839051-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:53",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38521141-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:54",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU39099609-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:55",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38871630-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:56",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38927411-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:57",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38804042-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:58",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU64666765-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:59",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38220639-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:01:59",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU65283225-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:00",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU12164757-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:01",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU11477985-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:02",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU20296049-2",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:03",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU72992117-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:04",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU81062429-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:05",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU81671534-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Wulf"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:06",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU20263936-7",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Wulf"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:06",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU70445398-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Wulf"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:07",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74746445-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:08",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU95117849-0",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:09",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU83060923-7",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:10",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU15616335-2",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:11",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU81674726-7",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:12",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU15309292-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:13",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71239320-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:14",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU72780051-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:15",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU12311172-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:16",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU72543640-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:17",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU65660975-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:17",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71694250-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:18",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU95129560-9",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:19",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU96299904-6",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:20",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU11495505-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:21",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU70206170-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:22",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU83257558-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "fibbef"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:23",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU12287831-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "fibbef"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:24",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU83220195-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Javadrink"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:25",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU37015176-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Ikeprodigy"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:26",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU15126057-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "CommanderBrace"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:27",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU75125268-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "The Next Guy"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:28",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU40364708-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:28",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU20433329-4",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Fibbef"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:29",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU70851190-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Crazyleprechaun"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:30",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU11740502-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Jefflongo"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:31",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU20973815-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Jefflongo"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:32",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU20875063-9",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:33",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU73690296-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:34",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71453144-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:35",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU12224897-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:36",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU83456170-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "YveltalGriffin"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:37",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU83331035-2",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "FroggestSpriit"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:37",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU11671935-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "FroggestSpriit"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:38",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74434120-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "MasterNate"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:39",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU92417072-8",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "MasterNate"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:40",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU72631036-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Allopogo"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:41",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU73259285-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:42",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU20834143-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Jefflongo"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:43",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU84216478-6",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Oaisus"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:44",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU96194436-8",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Oaisus"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:45",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU73601753-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Ratchet Russian"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:45",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71139523-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Ratchet Russian"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:46",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU20857796-0",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Oaisus"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:47",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU82819778-4",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Oaisus"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:48",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU92097744-4",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Oaisus"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:49",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU72858800-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "YveltalGriffin"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:50",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU96216940-1",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:51",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74626283-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:52",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU83483252-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:53",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU92000535-2",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:54",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU73372596-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Rafael Batista"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:55",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU70936804-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:56",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71833367-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:56",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU70278736-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:57",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71918495-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:58",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71061107-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:02:59",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU12126279-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:00",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU73083674-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:01",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71920484-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:02",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU66887215-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:03",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU75092942-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:04",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU73037391-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:04",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU65388443-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:05",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU39928659-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:06",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU12514584-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:07",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU11462952-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:08",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU70289800-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:09",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74518709-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:10",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU72796762-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:11",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU75079708-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:12",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74204227-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:13",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU73669572-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:14",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71776850-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:15",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU70637539-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:15",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU65768325-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:16",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU12229518-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:17",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU73313370-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:18",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU70591777-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:19",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU70894254-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:20",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU73717613-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:21",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU73938169-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:22",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU39554663-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:23",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU39785162-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:24",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU72610925-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:25",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74977586-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:26",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74546307-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:26",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU75249957-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:27",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU75210813-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:28",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU81473519-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:29",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU83361499-3",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:30",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU81398529-7",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:31",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU20256084-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:32",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU83480168-2",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:33",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU15240986-7",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:34",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU81376598-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:35",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU20923530-2",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:35",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU15044171-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:36",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU20583736-4",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:37",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU11389603-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "CrazyLeprechaun"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:38",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU81676036-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "t1m1d"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:39",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU66278786-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Wron"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:40",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU11374806-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "MikaMaslak"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:41",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74025078-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Coolname"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:42",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU20364585-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:43",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74991940-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:43",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU12161963-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:44",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU11655727-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:45",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU70027775-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:46",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71180790-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:47",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU20586018-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Hurda / Citrus3000PSI"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:48",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU82914247-9",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:49",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU95223367-9",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:50",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU15759896-2",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:51",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU21275570-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:53",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU20738801-7",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:53",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU75569224-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:54",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU21004311-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Crazyleprechaun"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:55",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU12646574-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:56",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU12665562-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:57",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU84336158-0",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Jefflongo"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:58",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU84298724-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Jefflongo"
+  },
+  {
+    "Timestamp": "6/20/2020 21:03:59",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU83647662-?",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "DeoNaught"
+  },
+  {
+    "Timestamp": "6/20/2020 21:04:00",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU83672601-3",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Oaisus"
+  },
+  {
+    "Timestamp": "6/20/2020 21:04:01",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU12499877-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "YveltalGriffin"
+  },
+  {
+    "Timestamp": "6/20/2020 21:04:01",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU75617480-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:04:02",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU83735614-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 21:04:03",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU21236164-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Hambaka"
+  },
+  {
+    "Timestamp": "6/20/2020 21:04:04",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU84393164-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Rocoloco321"
+  },
+  {
+    "Timestamp": "6/20/2020 21:04:05",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU84452117-4",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:25",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU21184841-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:27",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU75672775-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:28",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU75651921-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:29",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU21167620-9",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Yellowberry"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:30",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU21240455-9",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Jefflongo"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:31",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU25085851-2",
+    "Color": "Blue",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:32",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU35317889-0",
+    "Color": "Blue",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Wulf"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:33",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60523778-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Gman"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:34",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61213419-3",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:36",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU50347442-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:37",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60086443-9",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Madmorda"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:38",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU40069247-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:39",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60944344-4",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:40",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61092130-6",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Davuld86"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:41",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU40275075-6",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Namelessone"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:42",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU50642746-2",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Crazyleprechaun"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:43",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61158243-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Oaisus"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:44",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61848527-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:45",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61751463-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:47",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61662328-0",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:48",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60370850-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:49",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60829953-0",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:50",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU50291417-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:51",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU50485370-6",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:52",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60369481-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:53",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60435302-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:54",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU50171137-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:55",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61061639-4",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:56",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61587683-0",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:57",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61759001-7",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Ekterm"
+  },
+  {
+    "Timestamp": "6/20/2020 21:07:59",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61103648-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:00",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61284438-2",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "TheMandalorian"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:01",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU40508071-3",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:02",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU40115014-4",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:03",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU62389385-0",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:04",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU40731980-4",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "MasterNate"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:05",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU10134937-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:06",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU10020920-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:07",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU41138461-4",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:09",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU40891949-2",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:10",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU62135615-9",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:11",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU62182202-9",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Cheese"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:12",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU3009305-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 21:08:13",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU62352622-2",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Shank"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:32",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH20621962-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "vv32"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:33",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LAH10720546-9",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Stitches"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:34",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF10611680-3",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:35",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF10678078-3",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:36",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LF14558112-9",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:38",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH21068091-7",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:39",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH19038188-0",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:40",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH12368579-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:41",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH14690777-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:42",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH10750818-8",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:43",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH12223321-8",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:45",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH13715098-2",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "AaronSR"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:46",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF13971503-5",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:47",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF11652462-9",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Trimesh"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:48",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJH10651568-2",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Trimesh"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:49",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJM10074071-4",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Trimesh"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:50",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF13307994-2",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "xureality"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:51",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH12653087-0",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:52",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH19471804-0",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:54",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH16739662-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:55",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH27484818-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:56",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH15571266-7",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:57",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH14605039-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:58",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH15524511-0",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:27:59",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH18020563-9",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:00",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH11769477-2",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:01",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH10069058-3",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:03",
+    "Revision": "RVL-CPU-10",
+    "Serial Number": "LJH10211440-7",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Trimesh"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:04",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LEF11394091-0",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "BocuD"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:05",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LJM10805246-8",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:06",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LEH23467366-7",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "BocuD"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:07",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LEF10488019-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "BocuD"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:09",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LAH10848899-1",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "buzzyc"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:10",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LEF11387808-4",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:11",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LEF11902443-0",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:12",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LEF11633809-7",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:13",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LEH22851708-3",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:14",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEH25227731-1",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "BocuD"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:16",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEM10090492-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Dragos124"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:17",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEF12094374-4",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:18",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEH24310120-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:19",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEH25540208-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:20",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LEF50068924-8",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "BocuD"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:21",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LEM10187578-1",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:23",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LEF5006892-4",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "BocuD"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:24",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LJF20452213-1",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:25",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LJF20389448-2",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:26",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LEH10157039-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "BocuD"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:27",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LJF20496451-1",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:28",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LJF50698767-6",
+    "Color": "Black",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:30",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LEH28620530-4",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Notjohnny"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:31",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LEH28781325-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:32",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LTF20019471-4",
+    "Color": "White",
+    "Region": "NTSC-T",
+    "Bitbuilt Username": "Trimesh"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:33",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LHM50010814-5",
+    "Color": "Black",
+    "Region": "NTSC-T",
+    "Bitbuilt Username": "Trimesh"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:34",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LEH28732693-0",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Möyh Mäyh"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:35",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LAH12045767-8",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Arii"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:36",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LAH11960113-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Arii"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:37",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LAH11978679-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Arii"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:39",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LEM10169501-3",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:40",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LEH90017143-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:41",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEF50654856-3",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "vv32"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:42",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEM10622769-1",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:43",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEH51485807-4",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Raakhuga"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:44",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEH51428991-5",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "BocuD"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:46",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEH52622619-9",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "BocuD"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:47",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEH50830778-6",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Möyh Mäyh"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:48",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEH51451579-3",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "BocuD"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:49",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEM10714109-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:50",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEM50200375-2",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Benge"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:51",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LAM50043929-4",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Stitches"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:52",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEH29414950-8",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "BocuD"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:53",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEH53047627-6",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Möyh Mäyh"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:55",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEH30194624-3",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Nold"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:56",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEF22122299-1",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "hurda"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:57",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEH52797105-0",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "metehan"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:58",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KAM10020552-7",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Stitches"
+  },
+  {
+    "Timestamp": "6/20/2020 22:28:59",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KEH10032324-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Notjohnny"
+  },
+  {
+    "Timestamp": "6/20/2020 22:29:00",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KEH70606987-5",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Cellenseres"
+  },
+  {
+    "Timestamp": "6/20/2020 22:29:02",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KAF70023791-1",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "buzzyc"
+  },
+  {
+    "Timestamp": "6/20/2020 22:29:03",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KAF70056105-4",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "buzzyc"
+  },
+  {
+    "Timestamp": "6/20/2020 22:29:04",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KEH50114308-4",
+    "Color": "Blue",
+    "Region": "PAL",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:40",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61696988-3",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Ekterm"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:41",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU50023306-9",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Jerd"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:42",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU15795233-7",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Jerd"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:43",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU59901259-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Jerd"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:43",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36529607-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "eggbowl"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:44",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU70895771-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "eggbowl"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:45",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU40646042-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "eggbowl"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:46",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU60336518-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "eggbowl"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:47",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60191666-3",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:48",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60907287-3",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:49",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60918312-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:50",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60365277-4",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:50",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU83390260-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:51",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU50296236-3",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:52",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU92664256-8",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:53",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU25099932-1",
+    "Color": "Blue",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "seerofvoid420"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:54",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU83276098-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "jefflongo"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:55",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU12498671-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "jefflongo"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:56",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU73171704-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "octranspo9307"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:57",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU65445138-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Luca"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:57",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57035843-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Littlehat221"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:58",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU609081943",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Littlehat221"
+  },
+  {
+    "Timestamp": "6/20/2020 23:00:59",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU100926255",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Littlehat221"
+  },
+  {
+    "Timestamp": "6/20/2020 23:01:00",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU407129250",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Littlehat221"
+  },
+  {
+    "Timestamp": "6/20/2020 23:01:01",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU50200675-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "mokus"
+  },
+  {
+    "Timestamp": "6/20/2020 23:01:02",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30449009-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "mokus"
+  },
+  {
+    "Timestamp": "6/20/2020 23:01:03",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU12353410-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "mokus"
+  },
+  {
+    "Timestamp": "6/20/2020 23:01:04",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74077382-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "mokus"
+  },
+  {
+    "Timestamp": "6/20/2020 23:01:04",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60826831-4",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "mokus"
+  },
+  {
+    "Timestamp": "6/20/2020 23:01:05",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU60441314-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Gmanscout"
+  },
+  {
+    "Timestamp": "6/24/2020 17:23:09",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEH24538985-4",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "piotref1"
+  },
+  {
+    "Timestamp": "6/24/2020 17:23:38",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEH25241568-3",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "piotref1"
+  },
+  {
+    "Timestamp": "6/27/2020 6:58:36",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU51500337-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Rockstar"
+  },
+  {
+    "Timestamp": "6/29/2020 0:08:12",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU66197166-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Crazzyleprechaun"
+  },
+  {
+    "Timestamp": "6/29/2020 0:08:32",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63078045-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Crazzyleprechaun"
+  },
+  {
+    "Timestamp": "6/29/2020 0:08:54",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71113423-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Crazzyleprechaun"
+  },
+  {
+    "Timestamp": "7/10/2020 18:30:21",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEF50650498-9",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "fyr77"
+  },
+  {
+    "Timestamp": "7/20/2020 16:52:52",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU40470002-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "7/25/2020 21:43:51",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU11772751-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "BlackMacaroni"
+  },
+  {
+    "Timestamp": "8/5/2020 19:40:46",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KAF70004941-5",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Stitches"
+  },
+  {
+    "Timestamp": "8/17/2020 12:58:45",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57165244-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Samuel"
+  },
+  {
+    "Timestamp": "8/21/2020 9:33:10",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEM50663917-9",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Nick_G"
+  },
+  {
+    "Timestamp": "8/30/2020 17:34:53",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LAH11803327-3",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Rupeedach"
+  },
+  {
+    "Timestamp": "9/5/2020 18:31:11",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEH24215837-8",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "9/9/2020 22:39:50",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU40276897-3",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "dot-bob"
+  },
+  {
+    "Timestamp": "9/9/2020 22:40:57",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU61437484-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "dot-bob"
+  },
+  {
+    "Timestamp": "9/11/2020 23:33:10",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU54046097-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "blue01"
+  },
+  {
+    "Timestamp": "9/24/2020 1:12:15",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU96292319-5",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "blue01"
+  },
+  {
+    "Timestamp": "9/27/2020 15:23:26",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU64978024-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "not registered"
+  },
+  {
+    "Timestamp": "10/2/2020 12:52:19",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEM70131343-0",
+    "Color": "Red",
+    "Region": "PAL",
+    "Bitbuilt Username": "Benge"
+  },
+  {
+    "Timestamp": "10/2/2020 12:54:24",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEM50412983-2",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Benge"
+  },
+  {
+    "Timestamp": "10/2/2020 12:55:22",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEM50161115-6",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Benge"
+  },
+  {
+    "Timestamp": "12/24/2020 14:30:11",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "leh25674242-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "ensweden"
+  },
+  {
+    "Timestamp": "1/23/2021 5:30:33",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH52670450-5",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "1/25/2021 16:08:14",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEM10028932-9",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "D_PlaY_"
+  },
+  {
+    "Timestamp": "1/25/2021 16:14:28",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH10037334-9",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Inosh"
+  },
+  {
+    "Timestamp": "1/26/2021 13:28:18",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KEF70537699-8",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "D_PlaY_"
+  },
+  {
+    "Timestamp": "2/24/2021 3:58:53",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LEH22830190-3",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "RoseDagger"
+  },
+  {
+    "Timestamp": "3/3/2021 16:51:48",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEH50825257-4",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "RoseDagger"
+  },
+  {
+    "Timestamp": "3/20/2021 10:57:57",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71265202-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Zega1234"
+  },
+  {
+    "Timestamp": "3/20/2021 10:58:40",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU33764455-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Zega1234"
+  },
+  {
+    "Timestamp": "3/23/2021 5:50:36",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LEF11382373-2",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/23/2021 5:51:04",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEF22043106-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/23/2021 5:51:22",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEF22137618-2",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/23/2021 5:51:38",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LEF50390746-2",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/23/2021 5:51:51",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH14036584-7",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/23/2021 5:52:08",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH15121977-1",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/23/2021 5:52:43",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH17223810-2",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/23/2021 5:54:16",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH17846057-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/23/2021 5:55:22",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH19463564-4",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/23/2021 5:56:05",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH20003849-0",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/23/2021 5:57:05",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEH23800484-9",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/23/2021 5:57:19",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEH24316818-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/23/2021 5:58:15",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEM50749418-0",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "3/24/2021 22:07:31",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU72471959-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Zega1234"
+  },
+  {
+    "Timestamp": "3/26/2021 23:12:52",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LMH10064331-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "rg90184"
+  },
+  {
+    "Timestamp": "3/27/2021 14:18:42",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEH52922621-9",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "RoseDagger"
+  },
+  {
+    "Timestamp": "3/28/2021 12:55:41",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH10212986-9",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "4/11/2021 11:27:51",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEF52452738-0",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "honigbrai"
+  },
+  {
+    "Timestamp": "4/11/2021 11:29:25",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEH28102415-3",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "honigbrai"
+  },
+  {
+    "Timestamp": "4/11/2021 11:32:24",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEF50518699-5",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "honigbrai"
+  },
+  {
+    "Timestamp": "4/17/2021 11:24:00",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56317709-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "5/30/2021 20:39:54",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU40691938-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "6/25/2021 12:46:54",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU58759723-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "QuizzyA123"
+  },
+  {
+    "Timestamp": "7/11/2021 12:09:26",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LKM10833272-0",
+    "Color": "White",
+    "Region": "NTSC-K",
+    "Bitbuilt Username": "Fawaz_DJ"
+  },
+  {
+    "Timestamp": "7/11/2021 12:11:40",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "LU33600019-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Fawaz_DJ"
+  },
+  {
+    "Timestamp": "7/11/2021 12:13:52",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LMH10053097-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Fawaz_DJ"
+  },
+  {
+    "Timestamp": "7/16/2021 20:43:49",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU60101711-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Ekterm"
+  },
+  {
+    "Timestamp": "8/31/2021 19:52:47",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU75176852-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "8/31/2021 19:55:46",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU35303146-1",
+    "Color": "Blue",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "8/31/2021 20:05:41",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KU62336535-7",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "9/5/2021 12:22:01",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU61829191-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "9/6/2021 19:15:42",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU15375986-2",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "9/9/2021 8:45:28",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KEF70520295-2",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Benge"
+  },
+  {
+    "Timestamp": "9/29/2021 8:36:49",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEF50958597-8",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Explosive T"
+  },
+  {
+    "Timestamp": "10/3/2021 5:07:30",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEH24542446-3",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "10/12/2021 15:55:51",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH21652976-0",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Benge"
+  },
+  {
+    "Timestamp": "10/12/2021 16:10:45",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEM50734054-8",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Benge"
+  },
+  {
+    "Timestamp": "10/12/2021 16:35:29",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEM50756010-6",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Benge"
+  },
+  {
+    "Timestamp": "10/13/2021 14:30:06",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEF51162766-6",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Benge"
+  },
+  {
+    "Timestamp": "10/13/2021 14:53:59",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KEF70518996-3",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Benge"
+  },
+  {
+    "Timestamp": "10/13/2021 15:06:48",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LEH50259611-7",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Benge"
+  },
+  {
+    "Timestamp": "10/13/2021 15:13:42",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KEF70613932-5",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Benge"
+  },
+  {
+    "Timestamp": "11/8/2021 16:48:47",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEF10705797-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Desypher"
+  },
+  {
+    "Timestamp": "11/10/2021 9:29:59",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH12947376-1",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "PACOPEBEC"
+  },
+  {
+    "Timestamp": "11/13/2021 17:37:16",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74107581-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "gamer52"
+  },
+  {
+    "Timestamp": "12/26/2021 19:24:48",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "Leh50424440-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "",
+    "Revision": "",
+    "Serial Number": "",
+    "Color": "",
+    "Region": "",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "1/22/2022 0:50:54",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU50621635-6",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "JpRise"
+  },
+  {
+    "Timestamp": "1/29/2022 16:09:46",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57603870-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "SmolBigDud"
+  },
+  {
+    "Timestamp": "1/29/2022 16:10:32",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU55559213-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "SmolBigDud"
+  },
+  {
+    "Timestamp": "1/29/2022 16:14:07",
+    "Revision": "RVL-CPU-10",
+    "Serial Number": "LU30484483-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "SmolBigDud"
+  },
+  {
+    "Timestamp": "1/31/2022 0:44:09",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53734947-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "2/18/2022 17:02:30",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEF52266446-9",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Mystr"
+  },
+  {
+    "Timestamp": "2/24/2022 10:29:43",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LEF12033290-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Wafoe"
+  },
+  {
+    "Timestamp": "2/28/2022 1:16:17",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU59119920-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "5/23/2022 1:19:18",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU50546896-1",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "doorMatt"
+  },
+  {
+    "Timestamp": "5/23/2022 1:25:50",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60229342-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "doorMatt"
+  },
+  {
+    "Timestamp": "5/23/2022 1:26:26",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU52715042-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "doorMatt"
+  },
+  {
+    "Timestamp": "5/23/2022 1:27:09",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU52718125-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "doorMatt"
+  },
+  {
+    "Timestamp": "5/23/2022 1:27:34",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU55060499-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "doorMatt"
+  },
+  {
+    "Timestamp": "5/25/2022 14:16:55",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH22095145-8",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "5/26/2022 14:41:27",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30642501-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Devyn41"
+  },
+  {
+    "Timestamp": "5/26/2022 14:44:28",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU81092091-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Devyn41"
+  },
+  {
+    "Timestamp": "6/18/2022 16:14:16",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU33100305-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "6/19/2022 9:56:37",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH17311047-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "6/23/2022 1:38:49",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38471713-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "korumann"
+  },
+  {
+    "Timestamp": "6/23/2022 1:40:01",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU62728821-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "korumann"
+  },
+  {
+    "Timestamp": "6/23/2022 1:41:09",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53991455-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "korumann"
+  },
+  {
+    "Timestamp": "6/23/2022 1:42:23",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU50818637-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "korumann"
+  },
+  {
+    "Timestamp": "6/23/2022 1:44:52",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU25074189-0",
+    "Color": "Blue",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "korumann"
+  },
+  {
+    "Timestamp": "7/3/2022 21:17:32",
+    "Revision": "RVL-CPU-10",
+    "Serial Number": "KU91012360-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "James"
+  },
+  {
+    "Timestamp": "7/23/2022 20:59:26",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU61657150-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "7/28/2022 1:56:53",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU58154691-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Gamesdrop"
+  },
+  {
+    "Timestamp": "8/1/2022 1:12:43",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU33762597-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "DougzdimDomez"
+  },
+  {
+    "Timestamp": "8/18/2022 1:31:22",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU83151987-0",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "8/21/2022 12:42:50",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEF50829917-3",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "DisasterMo"
+  },
+  {
+    "Timestamp": "8/21/2022 12:46:00",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KEH10248046-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "DisasterMo"
+  },
+  {
+    "Timestamp": "8/21/2022 12:49:16",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LEH28357542-4",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "DisasterMo"
+  },
+  {
+    "Timestamp": "8/30/2022 0:30:11",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LKM10151833-6",
+    "Color": "White",
+    "Region": "NTSC-K",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "8/30/2022 14:37:33",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU84059927-6",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "8/30/2022 16:17:20",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEM50742850-5",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "9/15/2022 20:47:57",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LAH11936418-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "9/18/2022 9:49:33",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU15246237-4",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "10/29/2022 8:02:49",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU71464587-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "i dont have one but if i did it will be ColaWagon email is suck621no@protonmail.com"
+  },
+  {
+    "Timestamp": "12/21/2022 6:12:29",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU92676598-4",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "1/9/2023 22:01:50",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU92267047-3",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "1/9/2023 22:02:41",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU96542584-9",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "1/28/2023 0:23:40",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LJF20696323-9",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "3/27/2023 14:46:54",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU15006391-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "3/30/2023 1:03:08",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF51427448-5",
+    "Color": "Black",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Reza"
+  },
+  {
+    "Timestamp": "5/7/2023 7:08:24",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LAH11083595-0",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "VoxelTek"
+  },
+  {
+    "Timestamp": "5/7/2023 7:09:39",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LJF51211249-9",
+    "Color": "Black",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "VoxelTek"
+  },
+  {
+    "Timestamp": "5/13/2023 2:15:13",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LAH11469454-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "VoxelTek"
+  },
+  {
+    "Timestamp": "5/31/2023 21:49:45",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LAH11603426-5",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Velocity_Art"
+  },
+  {
+    "Timestamp": "6/10/2023 13:46:33",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KEH10631822-1",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "6/13/2023 17:03:48",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60198402-0",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:12:22",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJH10247724-3",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:12:50",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LJF14904810-9",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:17:42",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJH11692054-4",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:19:19",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56733046-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:20:36",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57909350-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:22:24",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJM10033308-4",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:23:40",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJH10120824-4",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:25:07",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF12216548-9",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:26:01",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF11808266-0",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:28:25",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF14369778-5",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:32:35",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF14649356-8",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:34:27",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF11166324-8",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:36:47",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF10342993-7",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:38:09",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU60748580-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:38:54",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU39221450-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:39:55",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38962968-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:42:53",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJM10398084-1",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:43:23",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF15171542-6",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/13/2023 17:50:50",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU50831969-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "6/14/2023 15:03:29",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJM10585518-5",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "CamiTheWitch"
+  },
+  {
+    "Timestamp": "7/1/2023 0:01:54",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LAH10538465-4",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "VoxelTek"
+  },
+  {
+    "Timestamp": "7/1/2023 0:03:15",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LAH11922659-9",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "VoxelTek"
+  },
+  {
+    "Timestamp": "8/2/2023 9:41:52",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "Leh14966036-3",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "9/26/2023 16:29:31",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH27568201-7",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "11/6/2023 23:45:50",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LAH50291442-3",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Velocity"
+  },
+  {
+    "Timestamp": "11/7/2023 0:22:34",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LAH11571618-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Velocity"
+  },
+  {
+    "Timestamp": "11/7/2023 7:54:47",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LAH70037059-5",
+    "Color": "Red",
+    "Region": "PAL",
+    "Bitbuilt Username": "Velocity"
+  },
+  {
+    "Timestamp": "11/7/2023 7:55:26",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LAH10309574-3",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Velocity"
+  },
+  {
+    "Timestamp": "11/18/2023 16:30:28",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LMM10007360-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Ovlic"
+  },
+  {
+    "Timestamp": "11/18/2023 16:31:52",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU54343290-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Ovlic"
+  },
+  {
+    "Timestamp": "12/10/2023 21:31:13",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "Lu81004269-6",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Zeldar"
+  },
+  {
+    "Timestamp": "12/14/2023 7:50:16",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LEH53028149-8",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "iFirez"
+  },
+  {
+    "Timestamp": "12/14/2023 7:50:47",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LEH23615864-3",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "iFirez"
+  },
+  {
+    "Timestamp": "1/5/2024 12:33:19",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEF50792005-4",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "Julien"
+  },
+  {
+    "Timestamp": "1/5/2024 18:49:17",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU50647112-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Konsento 01"
+  },
+  {
+    "Timestamp": "1/13/2024 11:41:17",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEH51534720-1",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "N/A"
+  },
+  {
+    "Timestamp": "1/14/2024 14:55:46",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH20401002-7",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "N/A"
+  },
+  {
+    "Timestamp": "1/21/2024 14:01:06",
+    "Revision": "RVL-CPU-10",
+    "Serial Number": "Ku62326543-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "1/24/2024 7:33:41",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEM70067761-8",
+    "Color": "Red",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "1/24/2024 7:36:59",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KEH50128353-7",
+    "Color": "Blue",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "1/30/2024 16:41:17",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU32153815-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "donk"
+  },
+  {
+    "Timestamp": "3/18/2024 13:52:12",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH21759147-6",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "andrys"
+  },
+  {
+    "Timestamp": "3/18/2024 13:52:49",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KEF70510386-0",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "andrys"
+  },
+  {
+    "Timestamp": "3/18/2024 13:54:09",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEH70071517-4",
+    "Color": "Red",
+    "Region": "PAL",
+    "Bitbuilt Username": "andrys"
+  },
+  {
+    "Timestamp": "3/30/2024 22:18:46",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU58292808-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "AllisFullofLove"
+  },
+  {
+    "Timestamp": "3/30/2024 22:19:29",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74494481-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "AllisFullofLove"
+  },
+  {
+    "Timestamp": "4/6/2024 14:10:14",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU70363600-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Ryuza"
+  },
+  {
+    "Timestamp": "4/6/2024 14:13:35",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU83134436-6",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Ryuza"
+  },
+  {
+    "Timestamp": "5/17/2024 21:20:11",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LAH50213128-8",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": "VoxelTek"
+  },
+  {
+    "Timestamp": "6/3/2024 3:27:44",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU39496095-9",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "Anuyushi"
+  },
+  {
+    "Timestamp": "7/25/2024 22:04:15",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60067567-7",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "The_Dankest"
+  },
+  {
+    "Timestamp": "7/29/2024 7:19:27",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEF11023511-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "8/5/2024 18:36:23",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "lu53819355-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Scizor+1"
+  },
+  {
+    "Timestamp": "8/12/2024 22:23:32",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU61705408-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "8/13/2024 22:57:05",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53404229-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "RTR"
+  },
+  {
+    "Timestamp": "8/19/2024 21:00:35",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU51226639-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "9/6/2024 7:20:04",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU51056263-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "10/17/2024 0:31:26",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU56890418-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "10/17/2024 0:32:20",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH12862902-2",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "10/19/2024 22:17:45",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU36412316-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "11/3/2024 13:36:31",
+    "Revision": "RVL-CPU-50",
+    "Serial Number": "LEM50225392-8",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "11/3/2024 13:38:03",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJH10805135-5",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "11/3/2024 13:41:37",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LJF20048463-1",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "11/3/2024 14:01:45",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LJF51620444-2",
+    "Color": "Black",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "12/13/2024 7:19:26",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LU38400128-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "N/A (^2)"
+  },
+  {
+    "Timestamp": "12/13/2024 7:20:08",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU35071286-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "N/A (^2)"
+  },
+  {
+    "Timestamp": "12/27/2024 0:02:59",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU65281929-6",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Be"
+  },
+  {
+    "Timestamp": "12/27/2024 16:16:06",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU30725737-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "1/9/2025 19:28:54",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU52248602-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Non Member"
+  },
+  {
+    "Timestamp": "1/13/2025 14:23:36",
+    "Revision": "RVK-CPU-01",
+    "Serial Number": "KU60291045-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "fdraghi"
+  },
+  {
+    "Timestamp": "1/13/2025 14:25:31",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KR50022339-8",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "fdraghi"
+  },
+  {
+    "Timestamp": "1/13/2025 14:27:14",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU15657124-9",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "fdraghi"
+  },
+  {
+    "Timestamp": "1/16/2025 18:52:55",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU55790401-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "Non Member (ratsprite@lazytechsupport.com)"
+  },
+  {
+    "Timestamp": "1/23/2025 20:13:04",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU34632424-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "1/24/2025 22:59:43",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU82229773-2",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "2/14/2025 8:51:10",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU63110942-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "3/4/2025 8:33:19",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU11256837-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "3/15/2025 9:28:17",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU58526169-8",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "3/17/2025 14:33:09",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH15873108-0",
+    "Color": "White",
+    "Region": "NTSC-K",
+    "Bitbuilt Username": "Idk"
+  },
+  {
+    "Timestamp": "4/9/2025 5:22:31",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU15447648-5",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "皆治"
+  },
+  {
+    "Timestamp": "4/9/2025 5:31:52",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU20738120-9",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "皆治"
+  },
+  {
+    "Timestamp": "4/9/2025 5:42:17",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU82990225-7",
+    "Color": "Black",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "皆治"
+  },
+  {
+    "Timestamp": "4/9/2025 6:00:26",
+    "Revision": "RVL-CPU-60",
+    "Serial Number": "LU96446384-2",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "皆治"
+  },
+  {
+    "Timestamp": "4/9/2025 9:15:11",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU57809580-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "皆治"
+  },
+  {
+    "Timestamp": "4/12/2025 15:37:18",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU34952120-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "4/18/2025 11:09:31",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEH27568201-7",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "Malini1"
+  },
+  {
+    "Timestamp": "4/23/2025 17:58:19",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU59015140-3",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "5/7/2025 22:05:06",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU54236545-2",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "皆治"
+  },
+  {
+    "Timestamp": "5/7/2025 22:12:30",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU73963043-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "皆治"
+  },
+  {
+    "Timestamp": "5/13/2025 15:30:45",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU74618746-1",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "bench_hoe"
+  },
+  {
+    "Timestamp": "5/13/2025 15:38:12",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LU36447045-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "5/17/2025 7:54:09",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH50616876-1",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "5/25/2025 20:56:55",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU62794068-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "ME"
+  },
+  {
+    "Timestamp": "5/29/2025 14:37:57",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU33634305-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "6/10/2025 2:28:27",
+    "Revision": "RVL-CPU-10",
+    "Serial Number": "LU50528678-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "TheDarkAss"
+  },
+  {
+    "Timestamp": "6/14/2025 0:01:00",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU33897502-5",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "6/15/2025 1:35:47",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU53997311-0",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "San"
+  },
+  {
+    "Timestamp": "6/16/2025 14:50:29",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU11513606-9",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "6/17/2025 11:58:51",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LEH23890071-4",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "6/17/2025 14:54:13",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LJF10859040-3",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "6/23/2025 13:54:44",
+    "Revision": "RVL-CPU-30",
+    "Serial Number": "LEH27481705-2",
+    "Color": "White",
+    "Region": "PAL",
+    "Bitbuilt Username": "degroteT"
+  },
+  {
+    "Timestamp": "6/27/2025 20:29:03",
+    "Revision": "RVL-CPU-20",
+    "Serial Number": "LJM10684223-8",
+    "Color": "White",
+    "Region": "NTSC-J",
+    "Bitbuilt Username": "rocoloco321"
+  },
+  {
+    "Timestamp": "7/6/2025 3:50:46",
+    "Revision": "RVK-CPU-02",
+    "Serial Number": "KEM70093134-5",
+    "Color": "Black",
+    "Region": "PAL",
+    "Bitbuilt Username": ""
+  },
+  {
+    "Timestamp": "7/9/2025 20:34:53",
+    "Revision": "RVL-CPU-01",
+    "Serial Number": "LU96540455-4",
+    "Color": "Red",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "marinmusiccm"
+  },
+  {
+    "Timestamp": "7/10/2025 14:44:18",
+    "Revision": "RVL-CPU-40",
+    "Serial Number": "LU39292736-7",
+    "Color": "White",
+    "Region": "NTSC-U",
+    "Bitbuilt Username": "JamesPi"
+  }
+]
