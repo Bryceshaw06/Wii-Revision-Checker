@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wii Revision Checker</title>
+    <!-- Tailwind CSS for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Configure Tailwind CSS for class-based dark mode -->
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+      }
+    </script>
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* Use Inter as the default font */
+        body {
+            font-family: 'Inter', sans-serif;
+            /* Set the background image provided by the user */
+            background-image: url('https://storage.googleapis.com/gemini-mode-prod-files-public/658514cb-d14d-467f-99b6-61231a68f74c');
+            background-repeat: repeat;
+            background-attachment: fixed;
+        }
+        /* Custom focus styles for better accessibility and appearance */
+        .custom-focus:focus {
+            outline: none;
+            border-color: #4f46e5;
+            box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.3);
+        }
+        html.dark .custom-focus:focus {
+             box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.4);
+        }
+    </style>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 flex items-center justify-center min-h-screen p-4 transition-colors duration-300">
+
+    <div class="w-full max-w-md mx-auto bg-white/95 dark:bg-gray-800/95 backdrop-blur-sm rounded-xl shadow-lg p-8 space-y-6 relative min-h-[500px] flex flex-col justify-center">
+        
+        <!-- Dark Mode Toggle -->
+        <button id="theme-toggle" class="absolute top-4 right-4 p-2 rounded-full text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 dark:focus:ring-offset-gray-800">
+            <svg id="theme-toggle-dark-icon" class="h-6 w-6 hidden" fill="currentColor" viewBox="0 0 20 20"><path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path></svg>
+            <svg id="theme-toggle-light-icon" class="h-6 w-6 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2m0 14v2m9-9h-2M5 12H3m15.364-6.364l-1.414 1.414M6.343 17.657l-1.414 1.414m12.728 0l-1.414-1.414M6.343 6.343L4.929 4.929M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+            </svg>
+        </button>
+        
+        <!-- Header Section -->
+        <div class="text-center">
+            <h1 class="text-3xl font-bold text-gray-800 dark:text-gray-100">Wii Revision Checker</h1>
+            <p class="text-gray-500 dark:text-gray-400 mt-2">Enter your Wii's serial number to find its motherboard revision.</p>
+        </div>
+
+        <!-- Input Section -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 items-center">
+            <!-- Prefix Dropdown -->
+            <div class="col-span-1">
+                <label for="prefix" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Prefix</label>
+                <select id="prefix" class="w-full p-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-200 rounded-lg shadow-sm custom-focus transition">
+                    <!-- North America -->
+                    <option value="LU">LU (North America)</option>
+                    <option value="KU">KU (North America - Family Edition)</option>
+                    <!-- Japan -->
+                    <option value="LJH">LJH (Japan)</option>
+                    <option value="LJF">LJF (Japan)</option>
+                    <option value="LJM">LJM (Japan)</option>
+                    <!-- Europe -->
+                    <option value="LEH">LEH (Europe)</option>
+                    <option value="LEF">LEF (Europe)</option>
+                    <option value="LEM">LEM (Europe)</option>
+                    <option value="KEF">KEF (Europe - Family Edition)</option>
+                    <option value="KEH">KEH (Europe - Family Edition)</option>
+                    <option value="KEM">KEM (Europe - Family Edition)</option>
+                    <!-- Other -->
+                    <option value="LAH">LAH (Australia)</option>
+                    <option value="KAF">KAF (Australia - Family Edition)</option>
+                    <option value="KAM">KAM (Australia - Family Edition)</option>
+                    <option value="LKM">LKM (Korea)</option>
+                    <option value="LSH">LSH (Asia)</option>
+                    <option value="KSH">KSH (Asia - Family Edition)</option>
+                    <option value="LMH">LMH (United Arab Emirates)</option>
+                    <option value="KMH">KMH (Middle East - Family Edition)</option>
+                </select>
+            </div>
+            <!-- Serial Number Input -->
+            <div class="col-span-1 md:col-span-2">
+                 <label for="serial" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Serial Digits</label>
+                <input type="text" id="serial" placeholder="e.g., 567810976" maxlength="9" class="w-full p-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-200 rounded-lg shadow-sm custom-focus transition" oninput="this.value = this.value.replace(/[^0-9]/g, '')">
+            </div>
+        </div>
+
+        <!-- Disclaimer Section -->
+        <div id="disclaimer-section" class="hidden text-center text-sm text-yellow-600 dark:text-yellow-400 bg-yellow-50 dark:bg-yellow-900/20 p-3 rounded-lg">
+            There is less data available for this region. The prediction is less likely to be correct.
+        </div>
+
+        <!-- Result Section -->
+        <div id="result-container" class="bg-gray-50 dark:bg-gray-700/50 rounded-lg p-6 text-center transition-all duration-300">
+            <h2 class="text-lg font-semibold text-gray-800 dark:text-gray-200 mb-4">Likely Motherboard Revision</h2>
+            <p id="result-text" class="text-2xl font-bold text-indigo-600 dark:text-indigo-400 h-8 flex items-center justify-center">
+                Loading revision data...
+            </p>
+        </div>
+        
+        <!-- Special Info Sections -->
+        <div id="lsh-info-section" class="hidden text-center bg-blue-50 dark:bg-blue-900/30 border-l-4 border-blue-500 text-blue-800 dark:text-blue-300 p-4 rounded-r-lg space-y-2">
+            <p class="font-semibold">This is an Asian Wii that runs North American firmware.</p>
+            <p class="text-sm">We currently do not have enough information on these revisions. If you have an LSH console, please consider contributing to the database!</p>
+            <a href="https://bitbuilt.net/forums/index.php?threads/identifying-a-wiis-revision-based-off-of-serial-numbers.716/" target="_blank" rel="noopener noreferrer" class="font-bold text-indigo-600 dark:text-indigo-400 hover:underline">Contribute Here</a>
+        </div>
+        <div id="kmh-info-section" class="hidden text-center bg-blue-50 dark:bg-blue-900/30 border-l-4 border-blue-500 text-blue-800 dark:text-blue-300 p-4 rounded-r-lg space-y-2">
+            <p class="font-semibold">This is a Middle Eastern Wii that runs North American firmware.</p>
+            <p class="text-sm">As a Family Edition, it is guaranteed to be a 4-layer model and is good for portabilizing. However, we don't have enough information to determine the exact revision. If you have a KMH console, please consider contributing to the database!</p>
+            <a href="https://bitbuilt.net/forums/index.php?threads/identifying-a-wiis-revision-based-off-of-serial-numbers.716/" target="_blank" rel="noopener noreferrer" class="font-bold text-indigo-600 dark:text-indigo-400 hover:underline">Contribute Here</a>
+        </div>
+        <div id="ksh-info-section" class="hidden text-center bg-blue-50 dark:bg-blue-900/30 border-l-4 border-blue-500 text-blue-800 dark:text-blue-300 p-4 rounded-r-lg space-y-2">
+            <p class="font-semibold">This is an Asian Wii that runs North American firmware.</p>
+            <p class="text-sm">As a Family Edition, it is guaranteed to be a 4-layer model and is good for portabilizing. However, we don't have enough information to determine the exact revision. If you have a KSH console, please consider contributing to the database!</p>
+            <a href="https://bitbuilt.net/forums/index.php?threads/identifying-a-wiis-revision-based-off-of-serial-numbers.716/" target="_blank" rel="noopener noreferrer" class="font-bold text-indigo-600 dark:text-indigo-400 hover:underline">Contribute Here</a>
+        </div>
+
+
+        <!-- Additional Info Section -->
+        <div id="info-section" class="hidden mt-4 space-y-4">
+            <!-- Content will be injected by JavaScript -->
+        </div>
+
+        <!-- Footer/Disclaimer -->
+        <div class="text-center mt-auto pt-4">
+            <p class="text-xs text-gray-400 dark:text-gray-500">
+                This tool provides an estimate based on <a href="https://bitbuilt.net/forums/index.php?threads/identifying-a-wiis-revision-based-off-of-serial-numbers.716/" target="_blank" rel="noopener noreferrer" class="text-indigo-500 dark:text-indigo-400 hover:underline">community-collected data</a>. Revision information is not guaranteed.
+            </p>
+            <p class="text-xs text-gray-400 dark:text-gray-500 mt-2">
+                Made with ❤️ by <a href="https://github.com/Bryceshaw06" target="_blank" rel="noopener noreferrer" class="text-indigo-500 dark:text-indigo-400 hover:underline">Bryce</a>
+            </p>
+        </div>
+
+    </div>
+
+    <script>
+        // --- DOM ELEMENTS ---
+        const prefixSelect = document.getElementById('prefix');
+        const serialInput = document.getElementById('serial');
+        const resultText = document.getElementById('result-text');
+        const infoSection = document.getElementById('info-section');
+        const disclaimerSection = document.getElementById('disclaimer-section');
+        const themeToggleBtn = document.getElementById('theme-toggle');
+        const darkIcon = document.getElementById('theme-toggle-dark-icon');
+        const lightIcon = document.getElementById('theme-toggle-light-icon');
+        const resultContainer = document.getElementById('result-container');
+        const lshInfoSection = document.getElementById('lsh-info-section');
+        const kmhInfoSection = document.getElementById('kmh-info-section');
+        const kshInfoSection = document.getElementById('ksh-info-section');
+        
+        // --- DATA STORAGE ---
+        let wiiRevisionData = [];
+
+        // --- DARK MODE LOGIC ---
+        function applyTheme(theme) {
+            if (theme === 'dark') {
+                document.documentElement.classList.add('dark');
+                darkIcon.classList.remove('hidden');
+                lightIcon.classList.add('hidden');
+                localStorage.theme = 'dark';
+            } else {
+                document.documentElement.classList.remove('dark');
+                darkIcon.classList.add('hidden');
+                lightIcon.classList.remove('hidden');
+                localStorage.theme = 'light';
+            }
+        }
+
+        themeToggleBtn.addEventListener('click', () => {
+            const currentTheme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+            applyTheme(currentTheme === 'dark' ? 'light' : 'dark');
+        });
+
+        // --- INITIALIZATION ---
+        document.addEventListener('DOMContentLoaded', () => {
+            // Apply initial theme
+            const initialTheme = localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
+            applyTheme(initialTheme);
+            
+            fetch('https://raw.githubusercontent.com/Bryceshaw06/Wii-Revision-Checker/refs/heads/main/WiiRevsionData.json')
+                .then(response => {
+                    if (!response.ok) throw new Error(`Network response was not ok: ${response.statusText}`);
+                    return response.json();
+                })
+                .then(data => {
+                    wiiRevisionData = data.map(entry => {
+                        if (!entry['Serial Number']) return null;
+                        const numericPart = entry['Serial Number'].match(/\d+/);
+                        const prefixPart = entry['Serial Number'].match(/^[A-Za-z]+/);
+                        return {
+                            ...entry,
+                            numericSerial: numericPart ? parseInt(numericPart[0].substring(0, 8), 10) : null, // Normalize to 8 digits
+                            prefix: prefixPart ? prefixPart[0].toUpperCase() : null
+                        };
+                    }).filter(entry => entry && entry.numericSerial !== null && entry.prefix !== null);
+
+                    resultText.textContent = 'Enter serial number to begin.';
+                    resultText.className = 'text-2xl font-bold text-indigo-600 dark:text-indigo-400 h-8 flex items-center justify-center';
+                    
+                    prefixSelect.addEventListener('change', () => {
+                        updateDisclaimer();
+                        checkRevision();
+                    });
+                    serialInput.addEventListener('input', checkRevision);
+                    updateDisclaimer();
+                })
+                .catch(error => {
+                    console.error('Error fetching revision data:', error);
+                    resultText.textContent = 'Error loading data.';
+                    resultText.className = 'text-2xl font-bold text-red-500 h-8 flex items-center justify-center';
+                });
+        });
+
+        // --- UI LOGIC ---
+        function updateDisclaimer() {
+            const nonNaPrefixes = ['LEH', 'LEF', 'LEM', 'KEF', 'KEH', 'KEM', 'LAH', 'LKM', 'LJH', 'LJF', 'LJM', 'KAM', 'KAF', 'LMH'];
+            const specialPrefixes = ['LSH', 'KMH', 'KSH'];
+            const selectedPrefix = prefixSelect.value;
+
+            if (nonNaPrefixes.includes(selectedPrefix) && !specialPrefixes.includes(selectedPrefix)) {
+                disclaimerSection.classList.remove('hidden');
+            } else {
+                disclaimerSection.classList.add('hidden');
+            }
+        }
+        
+        function displayResult(message, style) {
+            resultText.textContent = message;
+            resultText.className = `text-2xl font-bold h-8 flex items-center justify-center ${style}`;
+        }
+
+        // --- CORE LOGIC ---
+        function checkRevision() {
+            // Hide all info sections initially
+            infoSection.classList.add('hidden');
+            lshInfoSection.classList.add('hidden');
+            kmhInfoSection.classList.add('hidden');
+            kshInfoSection.classList.add('hidden');
+            resultContainer.classList.remove('hidden'); // Show the main result box by default
+            
+            const selectedPrefix = prefixSelect.value;
+            const originalSerialString = serialInput.value;
+
+            // --- Special Case Logic ---
+            if (selectedPrefix === 'LSH') {
+                resultContainer.classList.add('hidden');
+                lshInfoSection.classList.remove('hidden');
+                return; // Stop further processing
+            }
+            if (selectedPrefix === 'KMH') {
+                resultContainer.classList.add('hidden');
+                kmhInfoSection.classList.remove('hidden');
+                return; // Stop further processing
+            }
+            if (selectedPrefix === 'KSH') {
+                resultContainer.classList.add('hidden');
+                kshInfoSection.classList.remove('hidden');
+                return; // Stop further processing
+            }
+
+            if (originalSerialString.length === 0) {
+                displayResult('Enter serial number to begin.', 'text-indigo-600 dark:text-indigo-400');
+                return;
+            }
+            
+            if (originalSerialString.length < 8) { // Require at least 8 digits for a guess
+                 displayResult('Keep typing...', 'text-yellow-500');
+                 return;
+            }
+
+            const comparisonString = originalSerialString.substring(0, 8);
+            const userInputNumber = parseInt(comparisonString, 10);
+
+            const relevantEntries = wiiRevisionData
+                .filter(entry => entry.prefix === selectedPrefix)
+                .sort((a, b) => a.numericSerial - b.numericSerial);
+
+            if (relevantEntries.length === 0) {
+                displayResult('No data for this prefix.', 'text-red-500');
+                return;
+            }
+
+            let bestCandidate = null;
+            let nextCandidate = null;
+
+            for (let i = 0; i < relevantEntries.length; i++) {
+                if (relevantEntries[i].numericSerial <= userInputNumber) {
+                    bestCandidate = relevantEntries[i];
+                } else {
+                    nextCandidate = relevantEntries[i];
+                    break;
+                }
+            }
+
+            if (!bestCandidate) {
+                 bestCandidate = relevantEntries[0];
+            }
+
+            if (bestCandidate && nextCandidate && bestCandidate['Revision'] !== nextCandidate['Revision']) {
+                 if (originalSerialString.length < 9) {
+                    displayResult('Keep typing...', 'text-yellow-500');
+                    return;
+                 }
+            }
+            
+            if (bestCandidate && bestCandidate['Revision']) {
+                const revision = bestCandidate['Revision'];
+                const fourLayerRevisions = ['RVL-CPU-40', 'RVL-CPU-50', 'RVL-CPU-60', 'RVK-CPU-01', 'RVK-CPU-02'];
+                const sixLayerRevisions = ['RVL-CPU-01', 'RVL-CPU-10', 'RVL-CPU-20', 'RVL-CPU-30'];
+                let infoHtml = '';
+                let resultStyle = 'text-indigo-600 dark:text-indigo-400';
+
+                if (fourLayerRevisions.includes(revision)) {
+                    resultStyle = 'text-green-600 dark:text-green-400';
+                    infoHtml = `<div class="text-sm text-left bg-green-50 dark:bg-green-900/30 border-l-4 border-green-500 text-green-800 dark:text-green-300 p-4 rounded-r-lg"><p class="font-semibold">This console has a 4-layer board, consumes less power, and is ideal for portabilizing.</p></div><div class="text-left"><h3 class="text-md font-semibold text-gray-700 dark:text-gray-300 mb-2">Recommended Projects:</h3><ul class="list-disc list-inside space-y-1 text-gray-600 dark:text-gray-400"><li><a href="https://github.com/Xenii1642/Xii-Boy-Ultra" target="_blank" rel="noopener noreferrer" class="text-indigo-600 dark:text-indigo-400 hover:underline">Xii-Boy Ultra</a></li><li><a href="https://bitbuilt.net/forums/index.php?threads/ashida-wii-portable.4529/" target="_blank" rel="noopener noreferrer" class="text-indigo-600 dark:text-indigo-400 hover:underline">Ashida Wii Portable</a></li></ul></div>`;
+                } else if (sixLayerRevisions.includes(revision)) {
+                    resultStyle = 'text-red-600 dark:text-red-400';
+                    infoHtml = `<div class="text-sm text-left bg-red-50 dark:bg-red-900/30 border-l-4 border-red-500 text-red-800 dark:text-red-300 p-4 rounded-r-lg"><p class="font-semibold">This console has a 6-layer board and consumes more power. It is not ideal for portabilizing but can be useful for miniature consoles.</p></div><div class="text-left"><h3 class="text-md font-semibold text-gray-700 dark:text-gray-300 mb-2">Recommended Projects:</h3><ul class="list-disc list-inside space-y-1 text-gray-600 dark:text-gray-400"><li><a href="https://bitbuilt.net/forums/index.php?threads/guide-release-noldendo-wii-miicro-v1-1.3750/" target="_blank" rel="noopener noreferrer" class="text-indigo-600 dark:text-indigo-400 hover:underline">Noldendo Wii Miicro</a></li></ul></div>`;
+                }
+                
+                displayResult(revision, resultStyle);
+                
+                if (infoHtml) {
+                    infoSection.innerHTML = infoHtml;
+                    infoSection.classList.remove('hidden');
+                }
+
+            } else {
+                displayResult('Could not determine revision.', 'text-red-500');
+            }
+        }
+    </script>
+</body>
+</html>
