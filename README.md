@@ -9,7 +9,7 @@
 
 A simple web tool to estimate the likely **motherboard revision** of a Nintendo Wii console based on its **serial number**.
 
-Made with using Tailwind CSS.
+Made with Tailwind CSS.
 
 **Live Demo**: [wii-revision.netlify.app](https://wii-revision.netlify.app)
 
